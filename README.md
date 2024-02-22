@@ -1,2 +1,2 @@
 # dojoBlog
-Tech Stack-Nodejs,React,Materiul ui
+Tech Stack-C#,.Net,Nodejs,React,Materiul ui
