@@ -1,0 +1,13 @@
+
+
+/* .Layout{
+  width: 100%;
+  height: 100vh;
+  display: grid;
+} */
+
+.Accessibletable{
+  display: flex;
+  height: 150vh;
+  background-image: url('./Assets/fine-weather-landscape-iq9k6ubn8w9yhhkc.jpg');
+}
